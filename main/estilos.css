@@ -384,6 +384,7 @@ body{
 /* SMARTPHONE */
 
 @media (max-width: 480px) {
+
   /* ESTILOS INICO */
 
   #logo {
@@ -395,8 +396,9 @@ body{
   }
 
   #portada{
-    min-width: 280px;
+    background-image: none;
     background-image: url(../img/img-mobile2.jpg);
+    min-width: 280px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

@@ -396,7 +396,7 @@ body{
   }
 
   #portada{
-    background-image: none;
+    /* background-image: none; */
     background-image: url(../img/img-mobile2.jpg);
     min-width: 280px;
     background-size: cover;
